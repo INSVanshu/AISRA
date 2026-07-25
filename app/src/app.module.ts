@@ -1,5 +1,9 @@
 import { McpApp, Module, ConfigModule } from '@nitrostack/core';
 import { CalculatorModule } from './modules/calculator/calculator.module.js';
+import { InventoryModule } from './modules/inventory/inventory.module.js';
+import { VendorModule } from './modules/vendor/vendor.module.js';
+import { RfqModule } from './modules/rfq/rfq.module.js';
+import { DecisionModule } from './modules/decision/decision.module.js';
 import { SystemHealthCheck } from './health/system.health.js';
 
 /**
@@ -23,7 +27,11 @@ import { SystemHealthCheck } from './health/system.health.js';
   description: 'Root application module',
   imports: [
     ConfigModule.forRoot(),
-    CalculatorModule
+    CalculatorModule,
+    InventoryModule,
+    VendorModule,
+    RfqModule,
+    DecisionModule
   ],
   providers: [
     // Health Checks
