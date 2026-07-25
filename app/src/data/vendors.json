@@ -1,6 +1,82 @@
 [
-  { "vendorId": "VEND-A", "name": "Vendor A", "item": "Rice", "price": 42, "rating": 4.6, "approved": true },
-  { "vendorId": "VEND-B", "name": "Vendor B", "item": "Rice", "price": 39, "rating": 4.1, "approved": true },
-  { "vendorId": "VEND-C", "name": "Vendor C", "item": "Rice", "price": 45, "rating": 4.8, "approved": true },
-  { "vendorId": "VEND-D", "name": "Vendor D", "item": "Cooking Oil", "price": 110, "rating": 3.4, "approved": false }
+  {
+    "vendorId": "SUP-001",
+    "name": "Fresh Dairy Farm",
+    "item": "Butter",
+    "price": 18,
+    "rating": 4.9,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-002",
+    "name": "BakeMart Wholesale",
+    "item": "Butter",
+    "price": 17,
+    "rating": 4.5,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-003",
+    "name": "Premium Bakers Hub",
+    "item": "Butter",
+    "price": 20,
+    "rating": 4.8,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-004",
+    "name": "Sweet Supply Co.",
+    "item": "Fresh Cream",
+    "price": 14,
+    "rating": 4.7,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-005",
+    "name": "Daily Fresh Ingredients",
+    "item": "Fresh Cream",
+    "price": 13,
+    "rating": 4.3,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-006",
+    "name": "BakeMart Wholesale",
+    "item": "All-Purpose Flour",
+    "price": 28,
+    "rating": 4.8,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-007",
+    "name": "Premium Bakers Hub",
+    "item": "Sugar",
+    "price": 12,
+    "rating": 4.6,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-008",
+    "name": "Fresh Dairy Farm",
+    "item": "Eggs",
+    "price": 9,
+    "rating": 4.9,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-009",
+    "name": "Daily Fresh Ingredients",
+    "item": "Milk",
+    "price": 7,
+    "rating": 4.5,
+    "approved": true
+  },
+  {
+    "vendorId": "SUP-010",
+    "name": "Budget Grocery Suppliers",
+    "item": "Butter",
+    "price": 15,
+    "rating": 3.2,
+    "approved": false
+  }
 ]

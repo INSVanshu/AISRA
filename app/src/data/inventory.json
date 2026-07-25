@@ -1,6 +1,74 @@
 [
-  { "item": "Rice", "available": false, "quantity": 0, "safetyStock": 100 },
-  { "item": "Wheat Flour", "available": true, "quantity": 320, "safetyStock": 150 },
-  { "item": "Sugar", "available": true, "quantity": 54, "safetyStock": 80 },
-  { "item": "Cooking Oil", "available": false, "quantity": 12, "safetyStock": 60 }
+  {
+    "item": "All-Purpose Flour",
+    "available": true,
+    "quantity": 25,
+    "safetyStock": 15
+  },
+  {
+    "item": "Butter",
+    "available": false,
+    "quantity": 2,
+    "safetyStock": 8
+  },
+  {
+    "item": "Sugar",
+    "available": true,
+    "quantity": 12,
+    "safetyStock": 10
+  },
+  {
+    "item": "Eggs",
+    "available": true,
+    "quantity": 60,
+    "safetyStock": 30
+  },
+  {
+    "item": "Milk",
+    "available": true,
+    "quantity": 15,
+    "safetyStock": 10
+  },
+  {
+    "item": "Fresh Cream",
+    "available": false,
+    "quantity": 1,
+    "safetyStock": 5
+  },
+  {
+    "item": "Dark Chocolate",
+    "available": true,
+    "quantity": 8,
+    "safetyStock": 5
+  },
+  {
+    "item": "Vanilla Extract",
+    "available": true,
+    "quantity": 4,
+    "safetyStock": 2
+  },
+  {
+    "item": "Baking Powder",
+    "available": true,
+    "quantity": 6,
+    "safetyStock": 3
+  },
+  {
+    "item": "Cocoa Powder",
+    "available": true,
+    "quantity": 7,
+    "safetyStock": 4
+  },
+  {
+    "item": "Cake Boxes",
+    "available": true,
+    "quantity": 20,
+    "safetyStock": 10
+  },
+  {
+    "item": "Cupcake Liners",
+    "available": true,
+    "quantity": 150,
+    "safetyStock": 50
+  }
 ]
