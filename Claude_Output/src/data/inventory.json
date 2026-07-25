@@ -1,0 +1,6 @@
+[
+  { "item": "Rice", "available": false, "quantity": 0, "safetyStock": 100 },
+  { "item": "Wheat Flour", "available": true, "quantity": 320, "safetyStock": 150 },
+  { "item": "Sugar", "available": true, "quantity": 54, "safetyStock": 80 },
+  { "item": "Cooking Oil", "available": false, "quantity": 12, "safetyStock": 60 }
+]

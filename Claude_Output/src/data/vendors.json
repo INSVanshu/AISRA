@@ -1,0 +1,6 @@
+[
+  { "vendorId": "VEND-A", "name": "Vendor A", "item": "Rice", "price": 42, "rating": 4.6, "approved": true },
+  { "vendorId": "VEND-B", "name": "Vendor B", "item": "Rice", "price": 39, "rating": 4.1, "approved": true },
+  { "vendorId": "VEND-C", "name": "Vendor C", "item": "Rice", "price": 45, "rating": 4.8, "approved": true },
+  { "vendorId": "VEND-D", "name": "Vendor D", "item": "Cooking Oil", "price": 110, "rating": 3.4, "approved": false }
+]
