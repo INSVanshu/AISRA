@@ -5,7 +5,13 @@
     "item": "Butter",
     "price": 18,
     "rating": 4.9,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 1,
+    "reliability": 98,
+    "minimumOrder": 5,
+    "preferredSupplier": true,
+    "emergencyDelivery": true,
+    "location": "Coimbatore"
   },
   {
     "vendorId": "SUP-002",
@@ -13,7 +19,13 @@
     "item": "Butter",
     "price": 17,
     "rating": 4.5,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 2,
+    "reliability": 90,
+    "minimumOrder": 10,
+    "preferredSupplier": false,
+    "emergencyDelivery": false,
+    "location": "Erode"
   },
   {
     "vendorId": "SUP-003",
@@ -21,7 +33,13 @@
     "item": "Butter",
     "price": 20,
     "rating": 4.8,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 1,
+    "reliability": 95,
+    "minimumOrder": 3,
+    "preferredSupplier": false,
+    "emergencyDelivery": true,
+    "location": "Coimbatore"
   },
   {
     "vendorId": "SUP-004",
@@ -29,7 +47,13 @@
     "item": "Fresh Cream",
     "price": 14,
     "rating": 4.7,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 1,
+    "reliability": 96,
+    "minimumOrder": 4,
+    "preferredSupplier": true,
+    "emergencyDelivery": true,
+    "location": "Coimbatore"
   },
   {
     "vendorId": "SUP-005",
@@ -37,7 +61,13 @@
     "item": "Fresh Cream",
     "price": 13,
     "rating": 4.3,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 2,
+    "reliability": 89,
+    "minimumOrder": 8,
+    "preferredSupplier": false,
+    "emergencyDelivery": false,
+    "location": "Tiruppur"
   },
   {
     "vendorId": "SUP-006",
@@ -45,7 +75,13 @@
     "item": "All-Purpose Flour",
     "price": 28,
     "rating": 4.8,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 1,
+    "reliability": 97,
+    "minimumOrder": 20,
+    "preferredSupplier": true,
+    "emergencyDelivery": true,
+    "location": "Coimbatore"
   },
   {
     "vendorId": "SUP-007",
@@ -53,7 +89,13 @@
     "item": "Sugar",
     "price": 12,
     "rating": 4.6,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 2,
+    "reliability": 94,
+    "minimumOrder": 15,
+    "preferredSupplier": false,
+    "emergencyDelivery": false,
+    "location": "Salem"
   },
   {
     "vendorId": "SUP-008",
@@ -61,7 +103,13 @@
     "item": "Eggs",
     "price": 9,
     "rating": 4.9,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 1,
+    "reliability": 99,
+    "minimumOrder": 30,
+    "preferredSupplier": true,
+    "emergencyDelivery": true,
+    "location": "Coimbatore"
   },
   {
     "vendorId": "SUP-009",
@@ -69,7 +117,13 @@
     "item": "Milk",
     "price": 7,
     "rating": 4.5,
-    "approved": true
+    "approved": true,
+    "deliveryTime": 1,
+    "reliability": 92,
+    "minimumOrder": 10,
+    "preferredSupplier": false,
+    "emergencyDelivery": true,
+    "location": "Coimbatore"
   },
   {
     "vendorId": "SUP-010",
@@ -77,6 +131,12 @@
     "item": "Butter",
     "price": 15,
     "rating": 3.2,
-    "approved": false
+    "approved": false,
+    "deliveryTime": 4,
+    "reliability": 68,
+    "minimumOrder": 25,
+    "preferredSupplier": false,
+    "emergencyDelivery": false,
+    "location": "Chennai"
   }
 ]
